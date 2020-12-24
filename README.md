@@ -1,4 +1,4 @@
 # Introduction-to-Python-Programming-Homework
 
-#### Bu repo Introduction to Python kursu ödevleri için oluşturulmuştur.
+#### This repo was created for the Introduction to Python course assignments.
  
