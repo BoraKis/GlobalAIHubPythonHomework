@@ -23,6 +23,16 @@
 
 #### If he is over 18, print "You can go out to the street." on the screen.
 
+### Homework 3
+
+#### You are free on this assignment.
+
+#### You can set the rules yourself. There is only one thing expected you.
+
+#### When entering the game, The User's name and surname and for example "Welcome John" should be pressed to the screen. 
+
+#### When the game is over, exit game. So let the game end.
+
 ### Final Homework
 
 #### Create a Simple Student Management System:
