@@ -1,4 +1,4 @@
-# Introduction-to-Python-Programming-Homework
+# Global AIHub Python Homework
 
 #### This repo was created for the Introduction to Python course assignments.
 
